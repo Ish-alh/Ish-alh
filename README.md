@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Ismaiel 
+- 👋 Hi, I’m Ismaiel, I'm a front end developer using angular and ionic (I know React and Next)
 - 👀 I’m interested in all things tech and IT
-- 🌱 I’m currently learning programming and data analysis
+- 🌱 I’m currently learning programming with python, and data engineering
 - 💞️ I’m looking to collaborate on anything really
-- 📫 How to reach me Ismaiel.maher.alhousari@gmail.com
-
-
+- 📫 How to reach me Ismaiel.maher.alhousari@gmail.com, or www.linkedin.com/in/ismaiel-alhousari
+- Request my resume to see my tech stack and experience :)
