@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ismaiel, I'm a fullstack developer with Angular/Ionic for the front end and .NET Core for the back end
 - 👀 I’m interested in all things tech and IT
-- 🌱 I’m currently learning fullstackdevelopment
+- 🌱 I’m currently learning Software Engineering concepts and System architecture
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me Ismaiel.maher.alhousari@gmail.com, or www.linkedin.com/in/ismaiel-alhousari
+- 🔗 This link leads to my personal website: ______
 - Request my resume to see my tech stack and experience :)
